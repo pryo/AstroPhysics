@@ -1,0 +1,10 @@
+day 2 memo
+The JHU team has developed a middleware layer and a suite of data access tools that
+can readily be extended and adapted to support the HSC and PFS catalog data, given their
+similarity to SDSS.
+being integrated into the SciServer
+Extending the SDSS framework for HSC/PFS within SciServer
+SuMIRe project is similar to SDSS
+Globus3
+
+enhanced version of the SkyServer Web portal 4 for synchronous browser-based access using query tools that range from simpel web forms to raw SQL CasJobs/MyDB batch query workbench
