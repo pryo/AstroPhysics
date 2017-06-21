@@ -1,0 +1,41 @@
+Day 3 memo
+
+The JHU team has developed a middleware layer and a suite of data access tools that can readily be extended and adapted to support the HSC and PFS catalog data, given their similarity to SDSS.
+
+Need to investigate the middleware.
+
+
+
+The proposal stated SuMIRe project is similar to SDSS in terms of data ouput, Going to determin the difference and potential demands imposed on project development. Going to read the Slides to be received tonight.
+
+
+enhanced version of the SkyServer Web portal for synchronous browser-based access using query tools that range from simple web forms to raw SQL CasJobs/MyDB batch query workbench
+
+The SuMIRe database will be much larger than the SDSS archive
+need incorporate the dataset in to a scalable enviroment.(I need to investigate the aforementioned enviroment)
+
+the software that bring analysis to data has to be:
+general
+powerful
+easy to learn
+advanced to work within the browser
+
+will have to adapt and modify the sciServer to do the trick
+
+what are these terms in the context of SciServer?
+
+  KeyStone-based Single-Sign-On (SSO) system
+  Representational State Transfer-style API
+
+What is the output of HSC Data Analysis Software? If there exist a counterpart for PFS?
+
+  what are these features mean?
+  spec-z
+  line flux
+  linked spectra
+  linked photo data
+  linked image
+
+Study on FITS
+Known basic structure of FITS
+Downloaded some spectra data from SDSS. Going to do more research on spectrum data in FITS format: basic ploting and background.
