@@ -1,0 +1,24 @@
+Day 4 memo
+
+The slides from M.Strauss made some statements that I need to understand. Following questions need to be answered:
+At page 2:
+1 "SDSS data are organized into plates" and the plate organization seems has something to do with exposure time.
+
+2 what is fiber number?
+
+3 what does pointing means?
+
+4 what is the noise and how does noise present itself in the flux values?
+
+At page 5:
+
+5 Is best fit model refer to certain spectrum pattern of elements?
+
+6 what is mask bits regarding spectra?
+
+At page 6:
+7 What resulted the difference on S/N between PFS galactic archeology	spectra galaxy, evolution	spectra and cosmology	spectra?
+
+8 What are the benifit to zoom into lyman alpha emission line?
+
+9 how do we define one exposure in PFS spectra?
