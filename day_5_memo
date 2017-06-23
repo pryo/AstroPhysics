@@ -1,0 +1,28 @@
+Astronomical spectroscopy general study
+The major bands of spectroscopy are radio, x-ray, visible spectrum.
+The atmosphere opacity regarding different wavelength varies, only radio wave and visible wave are observable from earth surface, others will have to rely on satellite.
+
+To understand in depth how the signal was collected and processed, we need to understand and explain following term:
+
+angular resolution: theta = 1.22 * lambda/ D
+theta is resolution in radians , lambda is wavelength of radio signal and D is the diameter if the lens aperture
+
+astronomical interferometer: an array of telescopes or antennas work as a single device to provide image with higher angular resolution. In radio telescope the combining technology is aperture synthesis.
+
+aperture synthesis:https://en.wikipedia.org/wiki/Aperture_synthesis
+
+The Astronomical spectroscopy can be used to study the chemical properties of star.
+
+Presumably hot solid star emit continuous spectrum while hot gas only emit lights at certain band. So suns which is a hot solid surround by cooler gas will present absorption lines, comparing with know gas absorption line, we can acquire the composition of suns.
+
+With black body theory establishing relationship between the temperature and peak emission wavelength as:
+
+lambda*T =b
+
+where lambda is peak wavelength, T is temperature, b is black body constant, We can determine the temperature from spectra.
+
+In the study of galaxy, spectra was used to find quasars and dark matter by red/blue shift of galaxies presented in spectra.
+
+People also study interstellar medium with spectra, which is called nebulae, absorption, reflection and emission type was defined.https://en.wikipedia.org/wiki/Astronomical_spectroscopy#Interstellar_medium The detailed explanation of discovery history can be found here.
+
+Next week, I will look into coaddition and PFS specific spectra data.
