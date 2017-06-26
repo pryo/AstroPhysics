@@ -1,0 +1,8 @@
+Day 6 memo
+
+The plan for the week:
+
+Talked with Ani and Garard in the morning about the SPLAT conversation that I missed in the last Friday.
+The http://www.ivoa.net/astronomers/applications.html is a comprehensive list of Astronomers application. I'm going to go over all of them until the weekend. To be specific, I believe Starlink SPLAT-VO is the most relevant application I should pay attention to. May contact Markus Demleitner in further research.
+
+The sciscript package is an API to sciServer, I'm looking at authentication module and skyserver module. Stay tuned for a big integrated report.
