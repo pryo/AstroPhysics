@@ -1,0 +1,6 @@
+Since Monday of last week till early this week, I contributed to sciserver/sciscript project by developing a getRawFITSFile() function in the skyserver module. This function will acquire URL to targeting spectra file by calling CasJob execute query function. It doesn't support getting file from local dock server since the mountable volume DAS only contain data up to DR7 and URL returned from query is outdated or unconvertible to local dir. I also tried to make the spectra data extractable from downloaded FITS file, it's also unsuccessful since "unconventional and unrecognized header" prevailingly existed in the SDSS FITS file.
+
+Then I turned to  investigating existing spectra viewer from IVOA.
+SPLAT and CASSIS provided java web start options in which user will be able to run the spectra viewer from a link of jnlp file who in turn will initiate the download of component and environment to local machine. CASSIS also support opening remote FITS file with URL. I also found mMass open source spectrum viewer. The source code is in this project folder for future analysis.
+
+Since Wed, I was looking into the security feature of SDSS java login portal, Dmitri showed me the current login JS file. RegExp is feasible practical by now. But it's incapable of defense dictionary attack. Checking for other potential solution...

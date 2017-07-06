@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.6+" codebase="http://cassis.irap.omp.eu/online/" href="cassis.jnlp" version="4.2.2">
+
+	<information>
+		<title>Cassis</title>
+		<vendor>CNRS IRAP</vendor>
+		<icon href="files/ressource/logo_cassis.gif" />
+		<homepage>http://cassis.irap.omp.eu</homepage>
+	</information>
+
+	<resources>
+		<j2se version="1.7+" href="http://java.sun.com/products/autodl/j2se"/>
+		<jar href="cassis-webstart.jar" main="true" />
+	</resources>
+
+	<security>
+		<all-permissions />
+	</security>
+
+	<application-desc main-class="eu.omp.irap.cassis.gui.PanelAppSA">
+		<argument>online</argument>
+		<argument>http://cassis.irap.omp.eu/online/filesList.xml</argument>
+	</application-desc>
+
+</jnlp>
